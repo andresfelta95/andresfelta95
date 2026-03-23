@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Andres Tangarife 👋</h1>
-<h3 align="center">Frontend Engineer | React &amp; React Native | TypeScript</h3>
+<h3 align="center">Fullstack Engineer | React &amp; React Native | TypeScript</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andres-tangarife-267737126/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
